@@ -46,6 +46,16 @@ Run `make install`.  npm will be installed with node.
 If you want a more fancy pants install (a different version, customized
 paths, etc.) then read on.
 
+**Ubuntu**
+
+` sudo apt-get install npm `
+
+**CentOS**
+
+` sudo yum install epel-release
+sudo yum install npm
+`
+
 ## Fancy Install (Unix)
 
 There's a pretty robust install script at
